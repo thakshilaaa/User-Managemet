@@ -1,0 +1,2 @@
+Mitsubishi||Lancer||2010||CAX-4325||good||200000.0
+Honda||City||2015||KA02CD5678||Second Hand||1500000.0
